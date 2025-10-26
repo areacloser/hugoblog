@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Arch on 小窝</title>
-        <link>http://localhost:1313/tags/arch/</link>
+        <link>https://example.com/tags/arch/</link>
         <description>Recent content in Arch on 小窝</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>lanlan2_</copyright>
-        <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/arch/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/arch/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Arch Linux 和 Gentoo Linux 各有什么特点</title>
-        <link>http://localhost:1313/post/arch-and-gentoo/</link>
+        <link>https://example.com/post/arch-and-gentoo/</link>
         <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/arch-and-gentoo/</guid>
+        <guid>https://example.com/post/arch-and-gentoo/</guid>
         <description>&lt;img src="https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/Gentoo-vs-Arch-Linux.webp" alt="Featured image of post Arch Linux 和 Gentoo Linux 各有什么特点" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;p&gt;Arch Linux 和 Gentoo Linux 都是面向高级用户的 Linux 发行版，强调定制性和控制力，但设计哲学和技术实现差异显著。以下从核心特点、适用场景和典型差异展开分析：&lt;/p&gt;
 &lt;hr&gt;

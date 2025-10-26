@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Virtual Machine on 小窝</title>
-        <link>http://localhost:1313/tags/virtual-machine/</link>
+        <link>https://example.com/tags/virtual-machine/</link>
         <description>Recent content in Virtual Machine on 小窝</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>lanlan2_</copyright>
-        <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/virtual-machine/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/virtual-machine/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Ubuntu Server 22.04 避坑和配置指南</title>
-        <link>http://localhost:1313/post/tips-for-ubuntu-vm/</link>
+        <link>https://example.com/post/tips-for-ubuntu-vm/</link>
         <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/tips-for-ubuntu-vm/</guid>
+        <guid>https://example.com/post/tips-for-ubuntu-vm/</guid>
         <description>&lt;img src="https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/DM-20241006112629-001.png" alt="Featured image of post Ubuntu Server 22.04 避坑和配置指南" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;p&gt;先展示一下成果 ~&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/nf.png&#34;

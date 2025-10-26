@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Test on 小窝</title>
-        <link>http://localhost:1313/categories/test/</link>
+        <link>https://example.com/categories/test/</link>
         <description>Recent content in Test on 小窝</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>lanlan2_</copyright>
-        <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/test/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/test/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Arch Linux 和 Gentoo Linux 各有什么特点</title>
-        <link>http://localhost:1313/post/arch-and-gentoo/</link>
+        <link>https://example.com/post/arch-and-gentoo/</link>
         <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/arch-and-gentoo/</guid>
+        <guid>https://example.com/post/arch-and-gentoo/</guid>
         <description>&lt;img src="https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/Gentoo-vs-Arch-Linux.webp" alt="Featured image of post Arch Linux 和 Gentoo Linux 各有什么特点" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;p&gt;Arch Linux 和 Gentoo Linux 都是面向高级用户的 Linux 发行版，强调定制性和控制力，但设计哲学和技术实现差异显著。以下从核心特点、适用场景和典型差异展开分析：&lt;/p&gt;
 &lt;hr&gt;
@@ -158,10 +158,10 @@
         </item>
         <item>
         <title>Ubuntu Server 22.04 避坑和配置指南</title>
-        <link>http://localhost:1313/post/tips-for-ubuntu-vm/</link>
+        <link>https://example.com/post/tips-for-ubuntu-vm/</link>
         <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/tips-for-ubuntu-vm/</guid>
+        <guid>https://example.com/post/tips-for-ubuntu-vm/</guid>
         <description>&lt;img src="https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/DM-20241006112629-001.png" alt="Featured image of post Ubuntu Server 22.04 避坑和配置指南" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;p&gt;先展示一下成果 ~&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/nf.png&#34;

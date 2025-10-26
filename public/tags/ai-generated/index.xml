@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>AI-Generated on 小窝</title>
-        <link>http://localhost:1313/tags/ai-generated/</link>
+        <link>https://example.com/tags/ai-generated/</link>
         <description>Recent content in AI-Generated on 小窝</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>lanlan2_</copyright>
-        <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai-generated/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/ai-generated/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Arch Linux 和 Gentoo Linux 各有什么特点</title>
-        <link>http://localhost:1313/post/arch-and-gentoo/</link>
+        <link>https://example.com/post/arch-and-gentoo/</link>
         <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/arch-and-gentoo/</guid>
+        <guid>https://example.com/post/arch-and-gentoo/</guid>
         <description>&lt;img src="https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/Gentoo-vs-Arch-Linux.webp" alt="Featured image of post Arch Linux 和 Gentoo Linux 各有什么特点" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;p&gt;Arch Linux 和 Gentoo Linux 都是面向高级用户的 Linux 发行版，强调定制性和控制力，但设计哲学和技术实现差异显著。以下从核心特点、适用场景和典型差异展开分析：&lt;/p&gt;
 &lt;hr&gt;
@@ -158,10 +158,10 @@
         </item>
         <item>
         <title>Alpine Linux 安装教程</title>
-        <link>http://localhost:1313/post/alpine-installation/</link>
+        <link>https://example.com/post/alpine-installation/</link>
         <pubDate>Tue, 30 Sep 2025 12:12:21 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/alpine-installation/</guid>
+        <guid>https://example.com/post/alpine-installation/</guid>
         <description>&lt;img src="https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/alpine.png" alt="Featured image of post Alpine Linux 安装教程" /&gt;&lt;h1 id=&#34;alpine-linux容器世界的轻量级基石&#34;&gt;Alpine Linux：容器世界的轻量级基石
 &lt;/h1&gt;&lt;blockquote&gt;
 &lt;p&gt;简约而不简单，轻量却功能完备&lt;/p&gt;&lt;/blockquote&gt;

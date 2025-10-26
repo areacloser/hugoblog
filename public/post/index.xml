@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on 小窝</title>
-        <link>http://localhost:1313/post/</link>
+        <link>https://example.com/post/</link>
         <description>Recent content in Posts on 小窝</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>lanlan2_</copyright>
-        <lastBuildDate>Sat, 04 Oct 2025 12:25:08 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 04 Oct 2025 12:25:08 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>一年来的新感想</title>
-        <link>http://localhost:1313/post/new-thoughts-throughout-the-year/</link>
+        <link>https://example.com/post/new-thoughts-throughout-the-year/</link>
         <pubDate>Sat, 04 Oct 2025 12:25:08 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/new-thoughts-throughout-the-year/</guid>
+        <guid>https://example.com/post/new-thoughts-throughout-the-year/</guid>
         <description>&lt;img src="https://tc.alcy.cc/q/20250908/80311d6ec243ec832965432196879333.webp" alt="Featured image of post 一年来的新感想" /&gt;&lt;h2 id=&#34;时事杂谈&#34;&gt;时事杂谈
 &lt;/h2&gt;&lt;h3 id=&#34;补坑&#34;&gt;补坑
 &lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://areacloser.github.io/posts/thoughts-about-open-source/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -50,10 +50,10 @@
         </item>
         <item>
         <title>Arch Linux 和 Gentoo Linux 各有什么特点</title>
-        <link>http://localhost:1313/post/arch-and-gentoo/</link>
+        <link>https://example.com/post/arch-and-gentoo/</link>
         <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/arch-and-gentoo/</guid>
+        <guid>https://example.com/post/arch-and-gentoo/</guid>
         <description>&lt;img src="https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/Gentoo-vs-Arch-Linux.webp" alt="Featured image of post Arch Linux 和 Gentoo Linux 各有什么特点" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;p&gt;Arch Linux 和 Gentoo Linux 都是面向高级用户的 Linux 发行版，强调定制性和控制力，但设计哲学和技术实现差异显著。以下从核心特点、适用场景和典型差异展开分析：&lt;/p&gt;
 &lt;hr&gt;
@@ -199,10 +199,10 @@
         </item>
         <item>
         <title>Alpine Linux 安装教程</title>
-        <link>http://localhost:1313/post/alpine-installation/</link>
+        <link>https://example.com/post/alpine-installation/</link>
         <pubDate>Tue, 30 Sep 2025 12:12:21 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/alpine-installation/</guid>
+        <guid>https://example.com/post/alpine-installation/</guid>
         <description>&lt;img src="https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/alpine.png" alt="Featured image of post Alpine Linux 安装教程" /&gt;&lt;h1 id=&#34;alpine-linux容器世界的轻量级基石&#34;&gt;Alpine Linux：容器世界的轻量级基石
 &lt;/h1&gt;&lt;blockquote&gt;
 &lt;p&gt;简约而不简单，轻量却功能完备&lt;/p&gt;&lt;/blockquote&gt;
@@ -479,10 +479,10 @@
         </item>
         <item>
         <title>Ubuntu Server 22.04 避坑和配置指南</title>
-        <link>http://localhost:1313/post/tips-for-ubuntu-vm/</link>
+        <link>https://example.com/post/tips-for-ubuntu-vm/</link>
         <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/tips-for-ubuntu-vm/</guid>
+        <guid>https://example.com/post/tips-for-ubuntu-vm/</guid>
         <description>&lt;img src="https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/DM-20241006112629-001.png" alt="Featured image of post Ubuntu Server 22.04 避坑和配置指南" /&gt;&lt;h2 id=&#34;前言&#34;&gt;前言
 &lt;/h2&gt;&lt;p&gt;先展示一下成果 ~&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/nf.png&#34;
