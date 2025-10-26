@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Introspection on 小窝</title>
+        <link>http://localhost:1313/tags/introspection/</link>
+        <description>Recent content in Introspection on 小窝</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>lanlan2_</copyright>
+        <lastBuildDate>Sat, 04 Oct 2025 12:25:08 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/introspection/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>一年来的新感想</title>
+        <link>http://localhost:1313/post/new-thoughts-throughout-the-year/</link>
+        <pubDate>Sat, 04 Oct 2025 12:25:08 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/new-thoughts-throughout-the-year/</guid>
+        <description>&lt;img src="https://tc.alcy.cc/q/20250908/80311d6ec243ec832965432196879333.webp" alt="Featured image of post 一年来的新感想" /&gt;&lt;h2 id=&#34;时事杂谈&#34;&gt;时事杂谈
+&lt;/h2&gt;&lt;h3 id=&#34;补坑&#34;&gt;补坑
+&lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://areacloser.github.io/posts/thoughts-about-open-source/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;对我国开源现状的反思 | 小窝&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一年前，我曾愤慨地写下一些文字来“针砭时弊”，但“年与时驰，意与日去”，世事变迁，我的心态也发生了转变，在此记录一下感受。&lt;/p&gt;
+&lt;h4 id=&#34;cec-ide&#34;&gt;CEC-IDE
+&lt;/h4&gt;&lt;p&gt;这个是最没意思的，网站下架了，看热闹的走了，也没有后续，就当是闹剧一场吧。&lt;/p&gt;
+&lt;h4 id=&#34;博客园&#34;&gt;博客园
+&lt;/h4&gt;&lt;p&gt;博客园终于是活下来了，还活得很好（大概是得到了字节等金主的支持），这确实令人欣慰。最近我还注册了个帐号，开了个人博客，一切都很好。&lt;/p&gt;
+&lt;h4 id=&#34;gitcode&#34;&gt;GitCode
+&lt;/h4&gt;&lt;h5 id=&#34;感想&#34;&gt;感想
+&lt;/h5&gt;&lt;p&gt;我不得不说，我&lt;strong&gt;错怪&lt;/strong&gt;GitCode了，我将收回一年前的话，这并不是因为GitCode是无辜的或者悔过自新了，而是我发现了它的新玩法——图床（没错，我在网站更新日志中写的”稳定图床“就是它）！之前我翻遍各大网站，用尽各种搜索引擎都找不到的图床（包括但不限于GitHub，知乎，B站），竟然就藏身于我深恶痛疾之处，确实是有些戏剧性。&lt;/p&gt;
+&lt;h5 id=&#34;使用方法&#34;&gt;使用方法
+&lt;/h5&gt;&lt;p&gt;非常简单，只需要创建一个仓库，向上面上传图片，然后引用raw就可以了，但由于GitCode功能简陋，不能像Github一样在网页直接上传，必须通过git来push到远程仓库去，对于我这个没怎么用过git的确实不熟悉，Gitcode给了小白教程，这里就附上一点吧。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone https://gitcode.com/username/repo.git
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; repo
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;第一次提交&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u origin
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;现在&#34;&gt;现在
+&lt;/h3&gt;&lt;h4 id=&#34;731之神秘评分消失术&#34;&gt;《731》之神秘评分消失术
+&lt;/h4&gt;&lt;p&gt;9月18号的电影，到现在十多天了，票房十几亿了，豆瓣评分还是”暂无“，隔壁刚上映四天的《刺杀小说家2》都有评分了，这边不知是出了什么状况？是评分状况太难看了么？&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
