@@ -9,9 +9,9 @@ tags = [
     "arch",
     "gentoo",
     "linux",
-    "AI-Generated",
+    "AI生成",
 ]
-categories = ["Test"]
+categories = ["操作系统大杂烩"]
 image = "https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/Gentoo-vs-Arch-Linux.webp"
 +++
 

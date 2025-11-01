@@ -8,11 +8,11 @@ description = "配置 Ubuntu 虚拟机我踩过的坑和一些提示，可用于
 tags = [
     "ubuntu",
     "linux",
-    "virtual machine",
+    "虚拟机",
 ]
 categories = [
-    "Notes", 
-    "Test",
+    "笔记", 
+    "操作系统大杂烩",
 ]
 
 image = "https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/DM-20241006112629-001.png"

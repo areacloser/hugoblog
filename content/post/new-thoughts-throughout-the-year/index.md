@@ -6,10 +6,10 @@ title = "一年来的新感想"
 description = "更去年的文章回扣一下，顺便加点新东西"
 slug = "new-thoughts-throughout-the-year"
 tags = [
-    "introspection",
-    "daily",
+    "思考",
+    "唠嗑",
 ]
-categories = ["Others"]
+categories = ["杂谈"]
 image = 'https://tc.alcy.cc/q/20250908/80311d6ec243ec832965432196879333.webp'
 +++
 

@@ -8,12 +8,9 @@ description = '这是测试文章，由DeepSeek生成'
 tags = [
     'alpine',
     'linux',
-    'AI-generated',
+    'AI生成',
 ]
-categories = [
-    'themes',
-    'syntax',
-]
+categories = ["操作系统大杂烩"]
 image = 'https://raw.gitcode.com/areacloser/images-for-hugo-blog/raw/main/alpine.png'
 +++
 
